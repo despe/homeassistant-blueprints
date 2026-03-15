@@ -27,7 +27,7 @@ Features:
 
 Install the blueprint directly in Home Assistant:
 
-https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://github.com/despe/ha-blueprints/blob/main/blueprints/automation/Schneider_S520567W_cover/Schneider_ S520567W_cover.yaml
+https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://github.com/despe/ha-blueprints/blob/main/blueprints/automation/Schneider_S520567W_cover/Schneider_S520567W_cover.yaml
 
 Blueprint source:
 
